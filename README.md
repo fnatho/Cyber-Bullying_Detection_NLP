@@ -5,5 +5,5 @@ Desarrollado por Amaranta Salas, Julián García y Federico Natho
 
 2.- Desarrollo de modelo Embedder_chileno + BIGRU
 
-Modelo desarrollado inspirado en el [Bojan Tunguz](https://www.kaggle.com/code/tunguz/bi-gru-lstm-dual-embedding-new-test-cleaned-5/notebook)
+Modelo desarrollado inspirado en solución de [Bojan Tunguz](https://www.kaggle.com/code/tunguz/bi-gru-lstm-dual-embedding-new-test-cleaned-5/notebook)
 
